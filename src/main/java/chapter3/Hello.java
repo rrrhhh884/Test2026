@@ -25,9 +25,6 @@ public class Hello extends HttpServlet {
 
 //あいうえお
 
-
-
-
 //かきくけこ
 
 
